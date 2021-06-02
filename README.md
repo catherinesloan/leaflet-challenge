@@ -23,7 +23,6 @@ A config.js file to read in mapbox API key
    - A legend that provides context for my map data.
 
 **Part 2**
-[logic.js](https://github.com/catherinesloan/leaflet-challenge/blob/main/Leaflet-Step-1/logic.js)
 
 To Do ...
 - Plot a second data set on the map to illustrate the relationship between tectonic plates and seismic activity
